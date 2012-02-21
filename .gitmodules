@@ -1,0 +1,3 @@
+[submodule "lib/paramikojs"]
+	path = lib/paramikojs
+	url = https://github.com/mimecuvalo/paramikojs.git
