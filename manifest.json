@@ -1,0 +1,13 @@
+{
+  "name": "SSH Time Travel",
+  "version": "0.1",
+  "description": "Control Time on a remote server via SSH.",
+  "icons": { "128": "time-machine.png" },
+  "background_page": "background.html",
+  "permissions": ["plugins"],
+  "browser_action": {
+    "default_title": "",
+    "default_icon": "time.png",
+    "default_popup": "popup.html"
+  }
+}
